@@ -1,0 +1,15 @@
+.product {
+    width: auto;
+}
+
+.product img {
+    max-height: 20rem;
+}
+
+.product p {
+    color: #000000;
+}
+
+.product h4 {
+    color: #000000;
+}
